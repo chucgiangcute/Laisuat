@@ -84,7 +84,7 @@ int main()
 	cout << "\nTien gui ban dau = " << tiengui << " VND" << endl;
 	cout << "Lai suat = " << laisuat * 100 << "%" << endl;
 	cout << "Thoi han = " << thoihan << " nam" << endl;
-	cout << "So tien lai (tinh theo lai suat don le) = " << tienlai << " VND" << endl;
+	cout << "So tien lai = " << tienlai << " VND" << endl;
 	cout << "So tien sau " << thoihan << " nam voi lai suat cong don = " << tongtien << " VND" << endl;
 
 	return 0;
